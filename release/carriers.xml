@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<release_manifest snapshot_date="2097-05-15" bird_count="5" carrier_count="3" total_mass_g="3440">
+  <carrier id="RC-01" habitat="Reed Fen" total_mass_g="1520">
+    <bird sequence="1" bird_id="BD-HUSH" common_name="Little Egret" mass_g="880" check_id="CH-109" checked_on="2097-05-13" flight_score="79" />
+    <bird sequence="2" bird_id="BD-BRAM" common_name="Dusky Moorhen" mass_g="640" check_id="CH-102" checked_on="2097-05-12" flight_score="74" />
+  </carrier>
+  <carrier id="RC-02" habitat="Reed Fen" total_mass_g="510">
+    <bird sequence="3" bird_id="BD-CYRA" common_name="Azure Kingfisher" mass_g="510" check_id="CH-104" checked_on="2097-05-12" flight_score="91" />
+  </carrier>
+  <carrier id="RC-03" habitat="Shelf Coast" total_mass_g="1410">
+    <bird sequence="4" bird_id="BD-ALBA" common_name="Snow Petrel" mass_g="720" check_id="CH-101" checked_on="2097-05-10" flight_score="82" />
+    <bird sequence="5" bird_id="BD-GALE" common_name="Pied Oystercatcher" mass_g="690" check_id="CH-108" checked_on="2097-05-09" flight_score="77" />
+  </carrier>
+</release_manifest>
