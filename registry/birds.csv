@@ -1,0 +1,15 @@
+bird_id,common_name,habitat,mass_g,state,revision
+BD-ALBA,Snow Petrel,Shelf Coast,700,active,1
+BD-BRAM,Dusky Moorhen,Reed Fen,640,active,1
+BD-CYRA,Azure Kingfisher,Reed Fen,510,active,1
+BD-DOVA,Sooty Tern,Shelf Coast,830,active,1
+BD-ELIO,Marsh Harrier,Reed Fen,980,active,1
+BD-FERN,Silver Gull,Shelf Coast,760,held,1
+BD-GALE,Pied Oystercatcher,Shelf Coast,690,active,1
+BD-HUSH,Little Egret,Reed Fen,880,active,1
+BD-IRIS,Coastal Pipit,Dune Edge,430,active,1
+BD-ALBA,Snow Petrel,Shelf Coast,720,active,2
+BD-BRAM,Old Moorhen,Reed Fen,600,held,0
+BD-JADE,Malformed Bird,Dune Edge,+410,active,1
+BD-KITE,Missing Field,Dune Edge,520,active
+bad-id,Invalid Bird,Dune Edge,500,active,1
